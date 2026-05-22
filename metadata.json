@@ -1,0 +1,6 @@
+{
+  "name": "Filter Designer",
+  "description": "Interactive digital filter design tool for FIR and IIR filters with real-time frequency/impulse response plots and exporting capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
